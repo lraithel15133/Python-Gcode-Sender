@@ -13,3 +13,14 @@ To use Pyraker, you'll need Python and the `requests` library installed on your 
 
 ```bash
 pip install requests
+
+```
+
+
+## Usage
+To start the tool, simply run the script from your command line:
+
+```bash
+python pyraker.py
+
+```
