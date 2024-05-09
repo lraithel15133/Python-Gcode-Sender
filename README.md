@@ -1,6 +1,6 @@
-# Python-Gcode-Sender: A G-Code Command Line Interface
+# Python Gcode Sender: A G-Code Command Line Interface
 
-Python-Gcode-Sender is a command-line tool designed to interact with the Moonraker API, enabling users to send G-code commands to 3D printers controlled by the Klipper firmware. It allows users to manage a list of IP addresses or hostnames for multiple printers, select a device from the list, and send commands directly from the console.
+Python Gcode Sender is a command-line tool designed to interact with the Moonraker API, enabling users to send G-code commands to 3D printers controlled by the Klipper firmware. It allows users to manage a list of IP addresses or hostnames for multiple printers, select a device from the list, and send commands directly from the console.
 
 ## Features
 
@@ -9,7 +9,7 @@ Python-Gcode-Sender is a command-line tool designed to interact with the Moonrak
 
 ## Installation
 
-To use Pyraker, you'll need Python and the `requests` library installed on your machine. If you haven't already installed `requests`, you can do so using pip:
+To use Python Gcode Sender, you'll need Python and the `requests` library installed on your machine. If you haven't already installed `requests`, you can do so using pip:
 
 ```bash
 pip install requests
